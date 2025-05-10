@@ -1,0 +1,1 @@
+This is STudent managment system using C++
